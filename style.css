@@ -1,0 +1,76 @@
+
+
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+
+
+header {
+    background-color:#DEDBD2; /* Cor de fundo */
+    color: white; /* Cor do texto */
+    padding: 10px 0; /* Espaçamento interno */
+    text-align: center; /* Alinhamento do texto */
+}
+
+
+/* Estilos para o menu de navegação */
+nav a {
+    margin:  40px;
+    text-decoration: none;
+    color: #B0C4B1;
+    font-weight: bold;
+    padding: 30px;
+}
+
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+
+.banner{
+    height: 500px;
+    background-color: #edafb8;
+    background-image: url(Glossário\ HTML\ e\ CSS.png);
+    width: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+.container{
+    width: 100%;
+    height: 100%;
+}
+
+.fundo{
+    background-color: #B0C4B1;
+    color: white;
+    width: 100%;
+    height: 100%;
+    padding: 3%;
+
+
+
+}
+
+.margem{
+    padding: 40px;
+    margin: 0px;
+    
+}
+
+.introducao{
+    margin: 0px;
+    padding: 40px;
+}
+
+.footer-div{
+    color: white;
+    padding: 1px;
+    text-align: center;
+    background-color: #c18e95;
+}
