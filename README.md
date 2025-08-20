@@ -16,11 +16,9 @@ O objetivo deste projeto é fornecer uma referência rápida e visualmente organ
 - CSS3
 
 Languages and Tools
-Visual Studio CodeAndroid Studio
-
-
-
-HTML5CSS3
+Visual Studio Code
+HTML
+CSS
 
 
 
